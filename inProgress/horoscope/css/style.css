@@ -1,0 +1,44 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+main {
+  width: 80%;
+  margin: 5% 10%;
+  text-align: center;
+}
+
+footer {
+  font-size: 14px;
+  padding-top: 10px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+.sign {
+  grid-column: auto;
+  grid-row: auto;
+  height: 300px;
+  border: 10px solid navy;
+}
+
+/******************************************
+/* DESKTOP LAYOUT
+/*******************************************/
+
+@media (min-width: 768px) {
+  main {
+    font-size: larger;
+  }
+}
