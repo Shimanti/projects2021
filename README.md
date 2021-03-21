@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/shimantig" target="blank"><img src="https://img.shields.io/twitter/follow/shimantig?logo=twitter&style=for-the-badge" alt="shimantig" /></a> </p>
 
-- 🔭 I’m currently working on **a blood pressure app**
+- 🔭 I’m currently working on **a Blood Pressure Application to help monitor my goals**
 
-- 🌱 I’m currently learning **Node, React, Django, integrating dashboards**
+- 🌱 I’m currently learning **Node, React, Django, & Dashboard creation**
 
-- 👯 I’m looking to collaborate on **other healthcare free apps**
+- 👯 I’m looking to collaborate on **FREE apps**
 
 - 🤝 I’m looking for help with **an Indian Cookbook**
 
-- 👨‍💻 All of my projects are available at [www.github.com/shimanti](www.github.com/shimanti)
+- 👨‍💻 All of my projects are available at **www.github.com/shimanti**
 
 - 📝 I regularly write articles on **Disability, Multiple Sclerosis, Web Development**
 
@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://twitter.com/shimantig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shimantig" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shimantiguha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shimantiguha" height="30" width="40" /></a>
-<a href="https://kaggle.com/shimmanti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shimmanti" height="30" width="40" /></a>
+<a href="https://kaggle.com/shimmanti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shimanti" height="30" width="40" /></a>
 <a href="https://fb.com/shimantiguha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shimantiguha" height="30" width="40" /></a>
 </p>
 
